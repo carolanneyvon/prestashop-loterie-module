@@ -1,0 +1,13 @@
+.hc {
+  background: red;
+  color: white;
+}
+
+.hcblue {
+  background: white;
+  color: red;
+}
+
+.text-center {
+  text-align: center;
+}
